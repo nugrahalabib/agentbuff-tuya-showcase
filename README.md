@@ -302,3 +302,10 @@ After a release the script asks AgentBuff to refresh the product so owners' agen
 ---
 
 <sub>Built by [Nugraha Labib Mujaddid](https://github.com/nugrahalabib). This page describes a private codebase; questions about the product or a demo are welcome at [nugrahalabib@gmail.com](mailto:nugrahalabib@gmail.com).</sub>
+
+## Related
+
+- [AgentBuff](https://github.com/nugrahalabib/agentbuff-showcase)
+- [Buff Your Money](https://github.com/nugrahalabib/agentbuff-bym-showcase)
+- [AntiKebo](https://github.com/nugrahalabib/AgentBuff-AntiKebo)
+- [All my work on GitHub](https://github.com/nugrahalabib)
